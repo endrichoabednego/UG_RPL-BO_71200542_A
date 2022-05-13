@@ -1,8 +1,6 @@
 package org.twitter.com;
 
-import jdk.jpackage.internal.Log;
 
-import java.nio.charset.CharsetEncoder;
 import java.util.Scanner;
 public class User
 {
