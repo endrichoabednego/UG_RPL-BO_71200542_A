@@ -1,0 +1,5 @@
+org\twitter\com\User.class
+org\twitter\com\LoginException.class
+org\twitter\com\TweetException.class
+org\twitter\com\UsernameException.class
+org\twitter\com\BioException.class
